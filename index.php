@@ -95,7 +95,7 @@ if (!empty($_SESSION['activa'])) {
 </head>
 
 <body>
-
+    
     <div class="auth-container">
         <div class="row">
             <div class="col auth-logo">
@@ -103,7 +103,7 @@ if (!empty($_SESSION['activa'])) {
             </div>
             <div class="col">
                 <div class="auth-form">
-                    <h1>AUTENTICACIÓN CHAPULIN</h1>
+                    <h1>AUTENTICACIÓN DE DATOS</h1>
 
                     <form method="POST">
                         <div>

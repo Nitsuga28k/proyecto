@@ -103,7 +103,7 @@ if (!empty($_SESSION['activa'])) {
             </div>
             <div class="col">
                 <div class="auth-form">
-                    <h1>AUTENTICACIÓN TOS</h1>
+                    <h1>AUTENTICACIÓN </h1>
 
                     <form method="POST">
                         <div>
